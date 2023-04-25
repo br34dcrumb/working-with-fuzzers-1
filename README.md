@@ -1,1 +1,1 @@
-# Working with Fuzzer - Part 1
+# Working with Fuzzers - Part 1
